@@ -1,0 +1,1 @@
+publish https://github.com/mbrambilla72/BlazorDemo
