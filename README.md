@@ -1,1 +1,1 @@
-publish https://github.com/mbrambilla72/BlazorDemo
+githubpages for https://github.com/mbrambilla72/BlazorDemo
